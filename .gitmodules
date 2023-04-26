@@ -1,0 +1,9 @@
+[submodule "Vision-Transformer"]
+	path = Vision-Transformer
+	url = git@github.com:codamin/Vision-Transformer.git
+[submodule "Reiforcement-Learning-in-Computer-Vision"]
+	path = Reiforcement-Learning-in-Computer-Vision
+	url = git@github.com:codamin/Reiforcement-Learning-in-Computer-Vision.git
+[submodule "Robustness-in-Computer-Vision"]
+	path = Robustness-in-Computer-Vision
+	url = git@github.com:codamin/Robustness-in-Computer-Vision.git
